@@ -1,3 +1,6 @@
+# Plaid environment
+.env.example
+
 # Logs
 logs
 *.log
